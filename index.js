@@ -57,4 +57,4 @@ client.user.setGame(`Reklam Bnera `)
 
 
 
-client.login("ODU3NTkzNzE3NTcyNzYzNjY4.YNR2Yw.mPx3TAT3yKgDc7qQRopHFXKWMlA");// Your Token
+client.login("ODkxODQ4MTEyMjcwODgwNzc4.YVEURw.Dr_qUNjZSF4prQ7GmpQtn5Xj2vI");// Your Token
