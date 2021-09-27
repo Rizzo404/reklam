@@ -39,7 +39,7 @@ if (message.content.startsWith("https://discord.gg/")) {
   message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/avaxC5DfFg`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
   client.channels.get("890007757061750855").send(
-`> <a: By <@${message.author.id}> 
+`> By <@${message.author.id}> 
 ${message.content}`)
 }
     }
