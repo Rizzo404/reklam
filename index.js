@@ -36,10 +36,10 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/AeChT7xS`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
+  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/avaxC5DfFg`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
-  client.channels.get("782768475663368192").send(
-`> <a: By: <@${message.author.id}> ✅ 
+  client.channels.get("890007757061750855").send(
+`> <a: By <@${message.author.id}> 
 ${message.content}`)
 }
     }
@@ -51,7 +51,7 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`👑𝚂𝙷𝙰𝚁𝙺 𝚄𝙿👑`) 
+client.user.setGame(`Reklam Bnera `) 
 });
 
 
