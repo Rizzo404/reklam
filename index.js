@@ -21,7 +21,7 @@ message.member.voiceChannel.join()
 
 } else { 
 
-message.reply('**<a:9FAF7C0CF0104A2F979F1263DF55D91A:855230044258828328> پێویستە تۆ لە ڤۆیسەکە بیت **'); 
+message.reply('** پێویستە تۆ لە ڤۆیسەکە بیت **'); 
 
 } 
 
@@ -57,4 +57,4 @@ client.user.setGame(`Reklam Bnera `)
 
 
 
-client.login("ODkxODQ4MTEyMjcwODgwNzc4.YVEURw.Dr_qUNjZSF4prQ7GmpQtn5Xj2vI");// Your Token
+client.login("OTM1NTkxNjUyMDg3NzEzODIz.YfA3oA.6C44OglPhZ5bPfZ11ZcdaTeweRg");// Your Token
